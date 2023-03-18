@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaradhyaTiwari
 - 👀 I’m interested in CODING + MATH + PSYCHOLOGY + GADGETS
-- 🌱 I’m currently learning VLSI
+- 🌱 I’m currently learning VLSI Design
 - 💞️ I’m looking to collaborate on a Cool Game Development
 - 📫 How to reach me - please drop your mail at attestmail7@gmail.com
 
